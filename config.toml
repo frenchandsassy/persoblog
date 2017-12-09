@@ -4,15 +4,15 @@ defaultContentLanguage = "en-us"
 languageCode = "en-us"
 paginate = 6
 theme = "hugo-tranquilpeak-theme"
-title = "Hugo tranquilpeak theme"
+title = "Ma Zone Passion"
 [author]
 bio = ""
 job = "Femme au foyer"
 location = "Québec"
 name = "Marie Rochat"
-picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+picture = "/img/avatar.png"
 [[menu.main]]
-identifier = "about"
+identifier = "Qui suis-je?"
 name = "Qui suis-je?"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
 url = "/#about"
@@ -30,8 +30,8 @@ pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
 url = "/tags"
 weight = 2
 [[menu.main]]
-identifier = "home"
-name = "Page principale"
+identifier = "Accueil"
+name = "Accueil"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
 url = "/"
 weight = 1
