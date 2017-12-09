@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://mazonepassion.netlify.com/"
 canonifyurls = true
 defaultContentLanguage = "en-us"
 languageCode = "en-us"
@@ -73,5 +73,4 @@ url = "https://plus.google.com/share?url=%s"
 post = "/:year/:month/:slug/"
 [taxonomies]
 archive = "archives"
-category = "categories"
 tag = "tags"
