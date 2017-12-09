@@ -1,8 +1,9 @@
 +++
 categories = []
 date = "2017-12-09T15:48:48+00:00"
+draft = true
 keywords = []
-tags = []
+tags = ["ma vie", "le passé"]
 title = "J’l’ai enfin dit."
 
 +++
