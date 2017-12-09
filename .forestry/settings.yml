@@ -9,6 +9,4 @@ webhook_url:
 sections:
   post:
     default_front_matter_template: post
-  page:
-    default_front_matter_template: page
 version: 0.31.1
