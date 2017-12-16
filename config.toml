@@ -1,10 +1,10 @@
-baseURL = "https://mazonepassion.netlify.com/"
+baseURL = "https://marieetsonpetitmonde.netlify.com/"
 canonifyurls = true
 defaultContentLanguage = "en-us"
 languageCode = "en-us"
 paginate = 6
 theme = "hugo-tranquilpeak-theme"
-title = "Ma Zone Passion"
+title = "Le p'tit monde de Marie"
 [author]
 bio = ""
 job = "Femme au foyer"
