@@ -2,7 +2,7 @@
 categories = ["category", "subcategory"]
 date = "2017-12-16T10:01:42+00:00"
 keywords = ["tech"]
-tags = ["ma vie", "santé", "psychologie", "le passé", "le présent"]
+tags = ["ma vie", "psychologie", "le passé", "le présent", "santé mentale"]
 title = "C'est juste une pillule"
 
 +++
