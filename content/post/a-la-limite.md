@@ -1,7 +1,6 @@
 +++
 categories = ["category", "subcategory"]
 date = "2017-12-29T10:37:34+00:00"
-draft = true
 keywords = ["tech"]
 tags = ["ma vie", "le passé", "le présent", "psychologie", "santé mentale"]
 title = "À la limite"
