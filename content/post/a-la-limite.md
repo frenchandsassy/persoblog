@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2017-12-29T10:37:34+00:00"
+draft = true
 keywords = ["tech"]
 tags = ["ma vie", "le passé", "le présent", "psychologie", "santé mentale"]
 title = "À la limite"
@@ -36,7 +37,7 @@ C'est épuisant.
 
 J'ai de la médication. Mon Cipralex ça m'aide à être plus stable au niveau de mes émotions. Pas juste l'anxiété. Mais je suis pas assez 'gelé'. Et si je prends pas mon Séroquel le soir, je dors simplement pas. Le hamster dans ma tête arrête pas de courir dans sa p'tite roue. Je pense à ce que je suis, comment ma vie est. J'pleure. Parce que je vois pas de solution. Je vois pas le bout comme on dit.
 
-Mais tout ça, c'est un travail. Je crois pas pouvoir complètement 'guérir'. Parcce que mes traumatismes d'enfance sont là. Parce que les choses que j'ai vécu à l'adolescence et durant ma vie d'adulte ont en quelque sorte forgés la personne que j'suis devenue.
+Mais tout ça, c'est un travail. Je crois pas pouvoir complètement 'guérir'. Parce que mes traumatismes d'enfance sont là. Parce que les choses que j'ai vécu à l'adolescence et durant ma vie d'adulte ont en quelque sorte forgés la personne que j'suis devenue.
 
 Mais j'suis plus que ça. J'suis pas juste mes maladies 'invisible'. J'suis pas juste mon diabète ou mon PTSD. J'ai des talents (même si j'ai de la misère à les voir parfois). J'ai plein d'amour à donner. J'suis généreuse. J'suis fille et épouse. J'aime la musique, les arts, le cinéma, écrire, chanter.
 
