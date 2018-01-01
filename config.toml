@@ -1,4 +1,4 @@
-baseURL = "http://www.lepetitmondedemarie.com/"
+baseURL = "https://www.lepetitmondedemarie.com/"
 canonifyurls = true
 defaultContentLanguage = "en-us"
 languageCode = "en-us"
