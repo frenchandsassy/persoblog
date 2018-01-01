@@ -1,4 +1,4 @@
-baseURL = "https://marieetsonpetitmonde.netlify.com/"
+baseURL = "http://www.lepetitmondedemarie.com/"
 canonifyurls = true
 defaultContentLanguage = "en-us"
 languageCode = "en-us"
