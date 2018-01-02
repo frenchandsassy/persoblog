@@ -6,7 +6,7 @@ tags = []
 title = "Les résolutions"
 
 +++
-![](/uploads/2018/01/01/resolutionj.jpg)
+![](/uploads/2018/01/02/resolutionj.jpg)
 
 Une autre année vient de passé.
 
