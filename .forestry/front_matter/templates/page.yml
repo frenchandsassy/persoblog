@@ -15,9 +15,7 @@ fields:
   label: Tags
   type: tag_list
   hidden: false
-  default:
-  - tag1
-  - tag2
+  default: []
 - name: comments
   label: Comments
   type: boolean
