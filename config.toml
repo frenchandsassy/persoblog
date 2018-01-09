@@ -12,6 +12,12 @@ location = "Québec"
 name = "Marie Rochat"
 picture = "/img/avatar.png"
 [[menu.main]]
+identifier = "Accueil"
+name = "Accueil"
+pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+url = "/"
+weight = 1
+[[menu.main]]
 identifier = "Qui suis-je?"
 name = "Qui suis-je?"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
@@ -29,12 +35,6 @@ name = "Tags"
 pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
 url = "/tags"
 weight = 2
-[[menu.main]]
-identifier = "Accueil"
-name = "Accueil"
-pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-url = "/"
-weight = 1
 [[menu.misc]]
 identifier = "rss"
 name = "RSS"
@@ -44,7 +44,7 @@ weight = 1
 [params]
 autothumbnailimage = true
 clearreading = false
-coverimage = "cover.jpg"
+coverimage = "/uploads/2018/01/09/635992798386672964-148953701_Stack-of-books-great-education.jpg"
 description = ""
 favicon = "/favicon.png"
 hierarchicalcategories = false
