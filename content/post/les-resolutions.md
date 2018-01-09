@@ -2,7 +2,7 @@
 categories = ["category", "subcategory"]
 date = "2018-01-01T20:36:00+00:00"
 keywords = ["tech"]
-tags = []
+tags = ["ma vie", "santé mentale"]
 title = "Les résolutions"
 
 +++
