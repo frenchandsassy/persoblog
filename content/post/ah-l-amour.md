@@ -25,9 +25,9 @@ En tout cas, on dirait que c'est pas mal ça. Parce que des couples qui restent 
 
 En 2018, avec des applications comme Tinder et le simple fait qu'avoir du sexe sans attachement c'est plus tabou comme dans l'temps d'nos grand-parents, on dirait que les couples durent pas. Pourquoi s'engager quand il y a tant d'option.
 
-C'est bien d'avoir du fun. C'est bin correct si baiser ça suffit. 
+C'est bien d'avoir du fun. C'est bin correct si baiser ça suffit. Faut dire que c'est pas tout l'monde qui est fait pour vivre à deux aussi. Parce que faut quand même admettre que c'est bien être seule et devoir rien à personne. 
 
-Heille, c'est vraiment pas facile la vie d'couple là. Et j'suis loin d'être sarcastique. C'est pas facile. Un couple c'est deux personnes que même s'ils ont des points en communs, on aussi beaucoup de différence. Que tu sois gai, bisexuelle, lesbienne, pan, on s'en fout. Choisir de partager ta vie au quotidien avec quelqu'un, c'est faire un choix de style de vie. 
+Heille, c'est vraiment pas facile la vie d'couple là. Et j'suis loin d'être sarcastique. C'est pas facile. Un couple c'est deux personnes que même s'ils ont des points en communs, on aussi beaucoup de différence. Que tu sois gai, bisexuelle, lesbienne, pan, on s'en fout. Choisir de partager ta vie au quotidien avec quelqu'un, c'est pas une joke. 
 
 J'vais y aller en parlant de mon cas. Même si j'm'assume [pansexuelle](https://fr.wikipedia.org/wiki/Pansexualit%C3%A9 "pansexualité"), j'suis présentement dans une relation hétérosexuelle. 
 
@@ -79,14 +79,16 @@ Mon mari est pas mal plus réservé qu'moi dans l'sens que j'passe pas innaperç
 
 J'voudrais bien qu'il s'habille en habit. C'pas confortable ça l'air. J'suis vraiment pas une fan de polo mais bon, si c'est ça qui l'rend heureux. 
 
-On 
+On regarde avec l'autre avant d'prendre des décisions importantes aussi. On s'appelle si on est pour rentrer plus tard que prévue. Genre histoire que j'ai pas déjà préparer à souper alors qu'il doit rester au travail plus tard. Ou même, qu'il ait dit "oui oui, elle va te faire ça, ton bas d'pantalon." à quelqu'un et que soudain, j'ai la surprise. Ah oui? J'ai l'temps? J'savais pas.
 
-Y'a probablement 10 000 affaires que j'pourrais nommer sur les différences qu'on a. Mais ça donnerait rien. J'ai même un peu l'impression d'me justifier alors que c'est pas l'cas. 
+T'sais là, le respect général.
 
-On respecte nos différence, c'est tout.
-
-On s'aime comme on est. Et on s'aime assez aussi pour essayer d'changer les comportements qui "gossent" l'autre sans pour autant mettre en puéril notre intégrité et dignité. 
+On s'aime comme on est. 
 
 Ça, c'est notre recette. J'crois pas avoir la solution parfaite, et j'crois pas que mon couple est parfait. Mais c'est ça qui fait que pour nous, ça marche. 
 
-Parce que s'lever tout les matins à côté d'quelqu'un, de choisir partager un espace (parfois petit comme un studio avec deux chats)
+Parce que s'lever tout les matins à côté d'quelqu'un, de choisir partager un espace (parfois petit comme un studio avec deux chats) c'est pas du gâteau. 
+
+Faut parfois faire certains petits sacrifices comme laisser à l'autre le dernier bout d'fromage ou l'oreiller la plus confortable pour lui montrer qu'on l'aime. 
+
+Faut choisir ses batailles. 
