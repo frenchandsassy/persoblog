@@ -7,5 +7,4 @@ tags = []
 title = "Nourrir l'esprit"
 
 +++
-
-<!--more-->
+"L'esprit a besoin de livres comme une épée a besoin d'être affûtée." -Tyrion Lannister
