@@ -44,3 +44,5 @@ C'est un peu cliché, mais c'est vrai en maudit que pour régler un problème, f
 Pis y'a rien d'mal la dedans. On en a tous des mauvaises habitudes. Sauf que pour les brisées, faut s'avouer qu'elles sont là pis vouloir vraiment y remédier.
 
 C'est c'pas là qui est souvent l'plus dur: changer son attitude face à tout ça pour apprendre à changer nos habitudes. 
+
+Si ça peut aider, y'a ce canal youtube que j'trouve intéressant: [Mind Parachutes](https://www.youtube.com/channel/UCw6QERlD_3aPlWaPAE3wTMw "Mind Parachutes"). Moi j'sais qu'en écoutant des podcast sur ces sujets là ou en lisant des livres, ça m'aide à faire les bonnes réflections. Ça peut peut-être en aider d'autres? 
