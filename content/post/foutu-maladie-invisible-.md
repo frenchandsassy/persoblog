@@ -7,6 +7,8 @@ tags = []
 title = "Habitudes et trala-la"
 
 +++
+![](/uploads/2018/01/24/7-habitudes-de-vie-des-gens-excellents-pour-réussir-sa-vie.jpg)
+
 Y'a une couple de jour, j'ai décidé de me prendre en main. Pas que je faisais pas attention avant, mais il faut l'avouer (et même mon médecin le dit), quand le mental va pas bien, le physique va pas non plus.
 
 J'me sens mieux maintenant alors c'est l'temps de faire du changement.
@@ -43,6 +45,6 @@ C'est un peu cliché, mais c'est vrai en maudit que pour régler un problème, f
 
 Pis y'a rien d'mal la dedans. On en a tous des mauvaises habitudes. Sauf que pour les brisées, faut s'avouer qu'elles sont là pis vouloir vraiment y remédier.
 
-C'est c'pas là qui est souvent l'plus dur: changer son attitude face à tout ça pour apprendre à changer nos habitudes. 
+C'est c'pas là qui est souvent l'plus dur: changer son attitude face à tout ça pour apprendre à changer nos habitudes.
 
-Si ça peut aider, y'a ce canal youtube que j'trouve intéressant: [Mind Parachutes](https://www.youtube.com/channel/UCw6QERlD_3aPlWaPAE3wTMw "Mind Parachutes"). Moi j'sais qu'en écoutant des podcast sur ces sujets là ou en lisant des livres, ça m'aide à faire les bonnes réflections. Ça peut peut-être en aider d'autres? 
+Si ça peut aider, y'a ce canal youtube que j'trouve intéressant: [Mind Parachutes](https://www.youtube.com/channel/UCw6QERlD_3aPlWaPAE3wTMw "Mind Parachutes"). Moi j'sais qu'en écoutant des podcast sur ces sujets là ou en lisant des livres, ça m'aide à faire les bonnes réflections. Ça peut peut-être en aider d'autres?
