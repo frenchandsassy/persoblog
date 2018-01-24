@@ -16,7 +16,7 @@ J'sais pas si c'est une résolution. J'trouve que c'est plus une question de cha
 
 Mais c'est pas facile.
 
-1. **Assumer sa responsabilité face à ses mauvaises habitudes**
+**1. Assumer sa responsabilité face à ses mauvaises habitudes**
 
 J'ai tendance à oublier certains médicament. Même si j'ai un pillulier et que tout les dimanches, j'le prépare, quand la journée arrive, ça s'peut que j'saute une Metformine sur mon heure de dîner. Ça m'est arrivé d'être tellement occupé en me levant le matin, qu'il est rendu 2 heures de l'après-midi, j'ai rien mangé encore (ouh la, c'est pas bon pour une diabétique!) et j'ai même oublié de prendre mon anti-dépresseur. Ça fait des mois que je prends pas mes glycémies pour voir de quoi ça a l'air.
 
@@ -34,7 +34,7 @@ Mais écoute, j'ai pas à en vouloir à personne. C'est un choix que j'ai fait d
 
 C'est comme ça que j'arrive à moins dépenser depuis un moment. C'est bizarre parce que j'travaille pas. Mais j'ai l'impression d'avoir plus d'argent qu'avant.
 
-1. **Définir comment mettre fin à nos mauvaises habitudes**
+**2. Définir comment mettre fin à nos mauvaises habitudes**
 
 Starbucks, c'est devenu une gâterie. J'y vais juste une fois de temps en temps, uns fois par mois ou au deux mois. J'ai du bon café chez nous de toute façons. Et j'aime le thé alors j'en bois plus. Ça aide à m'sentir mieux.
 
@@ -54,7 +54,7 @@ J'mange quand même bien. J'cuisine beaucoup et j'fais attention pour faire des 
 
 En gros, c'est une prise de conscience. Admettre que t'as une mauvaise habitude que tu dois briser et prendre le temps de clarifier comment tu va y mettre fin.
 
-1. **Mettre le doigt sur les déclencheurs de mauvaises habitudes.**
+**3. Mettre le doigt sur les déclencheurs de mauvaises habitudes.**
 
 On vit un moment pas facile: on plonge notre face dans un sac de chips.
 
@@ -64,7 +64,7 @@ Alors faut l'savoir. Quand l'déclencheur est là, faut l'savoir pis pas s'laiss
 
 Distraire son esprit des pensées négatives qui nous envahissent.
 
-1. **La récompense**
+**4. La récompense**
 
 On devrait pas avoir besoin d'une récompense à part la satisfaction d'avoir mis fin à une habitude nocive dans notre vie. Mais écoute-là, on est humain. On est des mammifères, des animaux. Et on fait quoi avec un animal pour le conditionner? On lui donne une récompense.
 
