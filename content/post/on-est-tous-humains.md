@@ -7,5 +7,6 @@ tags = []
 title = "On est tous humains"
 
 +++
+Racisme
 
-<!--more-->
+Religion
