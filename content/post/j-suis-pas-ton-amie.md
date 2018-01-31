@@ -7,5 +7,4 @@ tags = []
 title = "J'suis pas ton amie"
 
 +++
-
-<!--more-->
+Collègues de travails et amitiés
