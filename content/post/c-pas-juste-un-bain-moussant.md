@@ -32,6 +32,7 @@ Bah oui, c'est plaisant de s'dorlotter un moment dans un bain moussant. De mettr
 * C'est faire la vaiselle et une brassé de lavage. Même si y'en a pas beaucoup pis qu'ça pourrait attendre.
 * C'est dire 'non'. Parce que ça m'tente vraiment pas et que j'aurai pas d'plaisir pis c'est pas bon pour moi.
 * C'est dire 'oui'. Parce même si ça m'tente pas vraiment, j'sais qu'au bout du compte ça va m'faire du bien et qu'c'est bon pour moi.
+* C'est mettre fin à une relation toxique.
 * C'est mettre ma robe préféré même si j'reste dans maison pis que j'vais nul part.
 * C'est me maquiller pis m'prendre en photo. Même si j'sors pas. Juste pour m'sentir belle.
 
