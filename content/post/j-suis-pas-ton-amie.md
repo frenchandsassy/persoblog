@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-01-07T14:05:18+00:00"
+draft = true
 keywords = ["tech"]
 tags = ["Ma Vie", "Friendship"]
 title = "J'suis pas obligé d'être ton amie"
@@ -34,7 +35,7 @@ C'est sur que j'aurais aimé ça avoir un(e) ami(e) au travail. Mais l'affaire c
 
 Puis, j'sais pas si c'est à cause de la manière que cette personne là a été élevé, ou simplement le gap de génération, mais être ami(e)s avec du monde qui m'dise que j'suis 'fucker en esti' simplement parce qu'on a pas les mêmes valeurs, c'est pas pour moi.
 
-Pourtant, j'suis amie avec plein de gens. Des gens qui, pollitiquement, ont vraiment pas la même manière de penser que moi. Ou que la religion pourrait nous écarter énormément. La manière de vivre.
+Pourtant, j'suis amie avec plein de gens. Des gens qui, politiquement, ont vraiment pas la même manière de penser que moi. Ou que la religion pourrait nous écarter énormément. La manière de vivre.
 
 Mais des gens qui peuvent pas respecter les autres et garder leur place, j'y arrive pas.
 
