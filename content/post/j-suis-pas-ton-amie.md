@@ -1,12 +1,13 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-01-07T14:05:18+00:00"
-draft = true
 keywords = ["tech"]
-tags = ["Ma Vie"]
+tags = ["Ma Vie", "Friendship"]
 title = "J'suis pas obligé d'être ton amie"
 
 +++
+![](/uploads/2018/02/16/article-2087161-0F79C6E200000578-616_468x286.jpg)
+
 Dans une couple de semaine, ça va faire 1 an que j'ai quitté le marché du travail. Quand j'ai quitté, j'étais plus dans un état psychologique et physique pour gérer mon stress et ma santé. J'voyais ça dégringoller comme quand tu tiens quelque chose de gluant dans tes mains pis que tout-à-coup, il t'échappe; t'as beau essayer de l'rattrapper, il fait juste glisser et glisser encore. 
 
 J'crois que j'ai pas eu beaucoup de chance pour mes environnements de travail. Mais j'blâmerai pas tout la dessus; j'crois aussi que j'ai une part de responsabilité pour que j'ai vécu l'enfer que j'ai vécu à deux places. Je sais que j'ai d'la difficulté avec les relations sociales. J'vis dans deux extrêmes: parfois j'suis trop naïve, pis d'autre fois, j'ai aucunement confiance. 
@@ -35,4 +36,10 @@ Pourtant, j'suis amie avec plein de gens. Des gens qui, pollitiquement, ont vrai
 
 Mais des gens qui peuvent pas respecter les autres et garder leur place, j'y arrive pas. 
 
-A
+J'ai d'la chance d'avoir rencontré certaines personnes que j'sais qu'elles vont rester dans ma vie. Parce que l'amitié, c'est un cadeau. C'est pas quelque chose de garanti. Des vrai(e)s ami(e)s, ces gens qu'on sait qu'on peut compter sur, qui nous jugeront pas et qui attendent rien de toi que t'es pas capable de donner, on en rencontre pas beaucoup dans une vie. 
+
+J'suis pas obligé d'être amie avec quelqu'un juste parce que cette personne là a envie d'être mon amie. 
+
+J'en ai ras-le-bol des faux-culs. J'ai passé l'âge de devoir et surtout, j'ai pas d'énergie pour des amitiés de convenances. 
+
+Mais j'peux garantir de quoi, c'est que même si j'suis loin, que même si on s'voit pas tout les jours, que même si on s'parle pas souvent, si j'te considère comme mon ami(e), c'est parce que j't'aime en maudit. 
