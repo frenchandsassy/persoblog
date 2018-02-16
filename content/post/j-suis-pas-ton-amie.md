@@ -1,7 +1,6 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-02-16T14:05:18+00:00"
-draft = true
 keywords = ["tech"]
 tags = ["Ma Vie", "Friendship"]
 title = "J'suis pas obligé d'être ton amie"
