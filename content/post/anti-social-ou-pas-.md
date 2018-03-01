@@ -11,9 +11,9 @@ title = "Le futur est pas si loin que ça"
 
 Dans les dernières semaines, mon mari et moi on a passé plusieurs moment à discuter des choses qu'on voulait faire.
 
-Voyager, avoir des chiens, me mettre en forme, commencer mes cours de conduite automobile, acheter une voiture, avoir une maison. C'est ça les trucs principaux qu'on veut. 
+Voyager, avoir des chiens, me mettre en forme, commencer mes cours de conduite automobile, acheter une voiture, avoir une maison. C'est ça les trucs principaux qu'on veut.
 
-On a tout les deux envie de voyager. J'ai déjà vu plusieurs place aux États-unies, mais j'ai encore plein d'place à voir comme la Californie, Washington, la Floride, le Mississipi. On veut visiter l'Europe. Sa famille est Suisse et ça fait des années qu'on s'dit qu'il faudrait bien que je rencontre ses grand-parents. C'est la vie, ils seront pas éternels. Et à chaque année qu'on remet ça, c'est une chance qu'on prend. Pis c'est beau. Si y'a bin une place à voir en Europe, c'est les paysages d'la Suisse. J'suis une manique de photo. Y'a la Suède aussi, parce que j'ai une amie, qui est comme une soeur, qui est venu me voir déjà pis que j'veux la revoir. Pis la Suède, ça m'fascine. J'aimerais retourner en Angleterre, visiter l'Irlande et l'Écosse. J'veux marcher sur Paris et voir le Moulin Rouge et la tour Eiffel. J'veux visiter l'Allemage et son histoire. Mon mari veut visiter l'Italie, Rome plus précisément. L'Espagne, la Grèce. J'rève de l'Asie depuis que j'suis toute petite. La Chine: Beijing pour la grande muraille et Hong Kong. La Corée du Sud, le Japon, le Vietnam, la Thaïlande, le Cambodge, l'Indonésie. J'pourrais passer des heures à parler des choses que j'veux faire hors de mon pays. 
+Voyager, on l'a déjà fait pis on va pouvoir continuer de l'faire de temps en temps. Parce qu'on a plein d'place qu'on veut visiter pis j'pourrais probablement faire un roman sur notre désir de visiter l'monde. Mais j'veux m'concentrer sur trois choses vraiment importante pour nous pour le moment.
 
 On a beau rester au centre-ville pis avoir accès au transport en commun, prendre le bus quand il fait trop froid (ou trop chaud) pis que t'es pris avec plein d'sac à cause de tes commissions, c'est chiant. Pis pas juste pour ça là. Quand tu veux sortir, faut qu'tu pense à ton déplacement qui va t'prendre au moins 5 fois le temps que ça prendrait avec une voiture. Pis pour voyager d'une ville à une autre, c'est pas l'top. Dépendre des autres pour un lift, c'est pas bon pour son sentiment d'indépendence. On a décidé que j'irais faire mon cours de conduite en premier. Lui a déjà suivit un cours et eu son permit. Alors il va voir s'il peut simplement refaire un examen. Mais j'vais commencer au printemps pis j'ai hâte. Merci à ma best qui va prendre du temps avec moi pour me donner la chance de pratiquer avec elle aussi. J'vais lui en devoir une grosse. Pis quand on restera plus dans notre trou sans parking qu'est st-so, on va pouvoir avoir notre p'tite hybride dont on parle tellement. On a hâte d'avoir la liberté qu'une voiture va nous apporter. 
 
@@ -29,10 +29,14 @@ Mais osti, j'suis plus capable d'la proximités des autres. Mes derniers séjour
 
 J'veux une maison loin d'autres humains. J'sais pas où encore mais assez loin d'la ville pour pas être collé sur un voisin. J'aime les contacts humain. Mais par petites doses. J'veux pouvoir dormir sans m'faire déranger par un enfant qui cours au dessus de ma tête ou qui gueule parce qu'il fait une crise en dessous d'moi. Mon mari a hâte de pouvoir prendre une douche sans qu'un voisin décide de prendre la sienne en même temps et prenne toute l'eau chaude du bloc. Pouvoir rénover de quoi dans mon environnement sans attendre après un proprio. Pouvoir avoir une cours pour faire un jardin plutôt que d'avoir des pots sur un balcon pis stresser qu'un voisin passe sur ma galerie pis m'vole ma récolte. J'veux entendre les oiseaux pis d'la nature plutôt que des chars pis des camions. 
 
-J'veux avoir un chez-moi. 
+Tout ça pour dire que j'aime ça parler du futur pis d'rêver. J'aime savoir que j'ai pas des rêves impossible pis que l'futur est pas si loin qu'ça grâce à mon mari qui m'donne de l'anxiété avec son budget (j't'aime chéri <3). 
 
-J'ai jamais eu ça. J'me suis jamais senti chez-moi peu importe où j'étais. Même avec ma famille, j'ai toujours eu l'impression que j'étais pas à ma place.
+J'veux avoir un chez-moi. J'ai jamais eu ça. J'me suis jamais senti chez-moi peu importe où j'étais. Même avec ma famille, j'ai toujours eu l'impression que j'étais pas à ma place. J'ai hâte de m'assoir dans ma cours, au millieux d'mes tomates pis mes concombres pis que quand j'vais recevoir du monde chez nous, que j'puisse vraiment dire : "Bienvenue dans notre maison. Bienvenue chez nous."
+
+J'ai hâte d'aller promener mes chiens pis de m'coller avec eux pis mon mari pour écouter un film. Ça va être mes enfants, mes p'tits amours. J'veux les regarder courir dans cours pis jouer avec eux.
+
+J'ai hâte d'avoir mon permit pis un char pour que j'puisse décidé d'aller voir mes beaux-parents sans devoir les faires déplacer jusqu'à Drummondville pour venir me chercher. Que j'puisse faire l'épicerie sans devoir payer de livraison (et de pourboire pour le livreur). 
+
+J'ai hâte de m'sentir vraiment libre.
 
 J'ai hâte. On a hâte. 
-
-J'ai hâte de m'assoir dans ma cours, au millieux d'mes tomates pis mes concombres pis que quand j'vais recevoir du monde chez nous, que j'puisse vraiment dire : "Bienvenue dans notre maison. Bienvenue chez nous."
