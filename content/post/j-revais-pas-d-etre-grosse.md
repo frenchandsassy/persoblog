@@ -1,7 +1,6 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-03-10T08:01:13+00:00"
-draft = true
 keywords = ["tech"]
 tags = ["Ma vie", "santé physique", "santé psychologique", "société", "le présent", "le passé"]
 title = "J'rêvais pas d'être grosse"
