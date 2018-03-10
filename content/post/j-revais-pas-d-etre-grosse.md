@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-03-10T08:01:13+00:00"
+draft = true
 keywords = ["tech"]
 tags = ["Ma vie", "santé physique", "santé psychologique", "société", "le présent", "le passé"]
 title = "J'rêvais pas d'être grosse"
@@ -64,4 +65,4 @@ _"Quand on connaît nos faiblesses, personne peut s'en servir pour nous faire du
 
 P.S. Article qui explique bien le privilège d'être mince: [Je suis mince, complexée, mais privilégiée, voici pourquoi]( "http://www.tonpetitlook.com/fr/2017/03/21/je-suis-mince-complexee-mais-privilegiee-voici-pourquoi") Bonne lecture et bien expliqué pour ceux qui arrivent pas à comprendre le principe.
 
-P.P.S Pis tant qu'à être là, pourquoi pas devenir un allié pour aider à combattre les préjugés? [5 effective ways people with thin privilege can fight fatphobia]( "https://everydayfeminism.com/2015/04/thin-privilege-fight-fatphobia/") (Si jamais y'a d'la demande, ça m'dérange pas de prendre du temps pour faire la traduction du texte).
+P.P.S Pis tant qu'à être là, pourquoi pas devenir un allié pour aider à combattre les préjugés? [Lutter contre la grossophobie]( "http://www.dixoctobre.com/dix-octobre/2017/12/30/lutter-contre-la-grossophobie-comment-tre-une-meilleure-allie")
