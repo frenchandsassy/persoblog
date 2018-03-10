@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-03-10T08:01:13+00:00"
+draft = true
 keywords = ["tech"]
 tags = ["Ma vie", "santé physique", "santé psychologique", "société", "le présent", "le passé"]
 title = "J'rêvais pas d'être grosse"
@@ -30,7 +31,11 @@ _"Tu sors pas d'table tant qu't'as pas fini ton assiette."_
 
 C'est une phrase tellement banale mais qui créer un sentiment de culpabilité. Pourquoi forcer un enfant à finir le contenu de son assiette parce qu'en Afrique quelqu'un a pas d'bouffe. J'me souviens avoir même déjà répondu à ma grand-mère "Bin j'ai pu faim t'as juste à prendre mes restes pis les leurs envoyés en Afrique!"
 
-J'ai jamais voulu être grosse mais j'le suis. Pis c'est pas facile de vivre avec un surpoids. Pas juste physiquement, mais psychologiquement.
+Au U.S., les portions dans les restaurants sont encore plus grosse qu'ici. Une petite boisson gazeuse équivaut à une moyenne ici. Pis ils ont un ou deux formats plus gros que le gros format qu'on a. C'est remplie de buffets de toute sorte. Pis la malbouffe est en effet, crissement moins cher qu'une salade là-bas. Ici on est chanceux, aller manger du Mc Do c'est encore chez j'trouve. Tout aussi bin de t'faire une bouffe à maison. Ou au moins aller dans un meilleur resto si t'es pour payer 15$ pis t'sentir encore vide après. On crée un problème pis on chiale à propos du problème sans vraiment le corriger. C'est quoi c'te société d'marde là?
+
+J'ai jamais voulu être grosse mais j'le suis. Pis c'est pas facile de vivre avec un surpoids. J'ai mal à plein d'places dans mon corps. Tout les jours de ma vie. J'ai 1-2 choix de magasins pour m'acheter du linge, pis même quand il est en vente, c'est encore trop cher bin souvent. Quand j'vais chez l'médecin, surtout au sans rendez-vous, tout suite mes problèmes c'est parce que j'suis grosse.
+
+Pas juste physiquement, mais psychologiquement.
 
 Et honnêtement, à moins d'avoir été une personne en surpoids soi-même, c'est impossible de comprendre à 100% la réalité d'une personne comme moi. On es une société qui voit souvent, pas plus loin que l'corps d'un autre. Où la valeur des femmes est en partie jugée selon son apparence physique.
 
