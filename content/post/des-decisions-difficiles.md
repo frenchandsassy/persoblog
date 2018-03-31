@@ -4,7 +4,7 @@ date = "2018-03-31T09:28:34+00:00"
 draft = true
 keywords = ["tech"]
 tags = ["ma vie", "le présent", "le passé", "société", "le futur", "opinions"]
-title = "Des décisions difficiles"
+title = "Une décision qui a pas été facile"
 
 +++
 ![](/uploads/2018/03/31/kids-holding-hands.jpg)
