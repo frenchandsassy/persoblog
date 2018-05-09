@@ -1,7 +1,6 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-05-09T09:54:55-04:00"
-draft = true
 keywords = ["tech"]
 tags = ["ma vie", "santé mentale", "thérapie", "le présent"]
 title = "Groupe Niveau 1 - Semaine 5 : Régulation émotionelle "
