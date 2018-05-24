@@ -1,63 +1,48 @@
 +++
 categories = ["category", "subcategory"]
-date = "2018-05-24T07:43:49-04:00"
+date = "2018-05-24T11:24:49-04:00"
 draft = true
 keywords = ["tech"]
-tags = []
+tags = ["opinions", "psychologie", "société"]
 title = "La compassion c'est pas d'la pitié"
 
 +++
-Parler de l'affaire Mervil et les commentaire vu en général sous les articles qui parlent d'agressions.
+![](/uploads/2018/05/24/compassion-1.jpg)
 
-### **_Compassion, sympathie, empathie, pitié :_**
+Depuis quelques années, une affaires d'agression sexuelle traine au Québec. L'histoire? En 1996, alors qu'il avait 28 ans, Luck Mervil a abusé de sa position d'autorité envers une jeune fille de 17 ans et demi. Bon, en 1996, l'âge du consentement sexuel était à 14 ans (c'est en 2008 que Harper a changé l'âge pour 16 ans) mais de toute façon, c'est là la nuance. Il a lui même admit aboit eu une relations sexuelle avec elle, sans son consentement, et ensuite, a eu plusieur autres contacts sexuels.
 
-### **Quelles différences ?**
+Maintenant une femme de presque 40 ans, la victime a avoué avoir été traumatisé psychologiquement et physiquement par les événements. Quand même, 10 ans de différences, surtout quand t'es considéré mineurs, ça paraît. Et si elle même dit qu'elle s'est sentie à la mercie de son agresseur, j'crois que c'est à considéré. Après tout, elle était impressioné par son status de vedette!
 
-_Compassion veut dire « action de souffrir avec». C’est un sentiment qui porte à reconnaître et à prendre part à la douleur et aux souffrances d’autrui._
+J'parlerais pas en détail de mon opinion sur la sentence que Luck Mervil a reçu: 3 mois assigné à sa résidence 24h/24h (avec exceptions: peut sortir de chez lui pour emploi légitime et rénuméré, faire ses courses 1 fois par semaine pendant 3h et déplacements liés à la garde de son garçon. Un couvre feu de 23h à 6h le matin? Une vrai joke. 
 
-_La compassion n’est pas une émotion, il s’agirait plutôt d’une attitude qui nous porte à être sensible à la souffrance de l’autre. Devant la douleur d’autrui, nous vivons alors différentes émotions. Il peut s’agir de tristesse, de colère, de révolte, etc., toutes suscitées par ce que nous observons chez la personne qui pâtit._
+Non, j'veux parler de commentaires que j'ai vu sous divers articles sur le sujet de Mr. Mervil. Un, tout simple, est venu m'chercher: C'est une adulte maintenant et faut arrêter de la prendre en pitié. 
 
-_Dans la compassion, une sorte de fusion s’opère avec la personne qui se confie, ce qui entraîne un parti pris et des jugements de valeur allant dans son sens, sur le moment même. Ensuite, la personne qui aura compati réintègre ses propres valeurs._
+En pitié? 
 
-__
+Il y avait plein d'autres choses plus dégueulasse les unes que les autres. Mais au moins j'ai vues d'autres commentaires qui étaient pas de "pitiés", mais de compassion (ça m'a un peu redonner espoir en l'humanité). Honnêtement, je crois pas que ceux qui disent des commentaires négatifs comprennent ce que c'est, la compassion.
 
-**_La compassion est différente de la sympathie._**_  
-Dans la sympathie, « ce qu’on éprouve avec l’autre« , nous nous mettons plus ou moins clairement et plus ou moins volontairement à la place de l’autre et réagissons comme si nous étions lui._
+La compassion, c'est un sentiment qui amène à reconnaître et à prendre part à la douleur et la souffrance de l'autre. C'est pas une émotion, c'est une attitude qui porte à être sensible à la souffrance de l'autre. Dans la compassion, on peut vivre différentes émotions comme de la tristesse, d'la colère, d'la révolte. Dans la compassion, on fait une sorte de fusion avec la personne qui s'confie, c'qui fait qu'on a un parti pris et des jugements d'valeur qui vont dans c'te sens là, sur le moment. Pis ensuite, après avoir compati, on reprend nos propres valeurs.
 
-_La sympathie se distingue de la compassion aussi par le fait qu’elle porte sur différents sujets, positifs comme négatifs, alors que la compassion n’existe que devant la souffrance._
+C'est différent aussi de la sympathie pis de l'empathie. Pis c'est vraiment loin d'la pitié. 
 
-__
+La pitié, c't'un sentiment, une émotion: une forme d'empathie déguisé.
 
-**_La compassion n’est pas l’empathie._**_  
-L’empathie vient du grec « pathos« , c’est « ce qu’on éprouve dedans« , c’est en quelque sorte la capacité de se mettre à sa place pour la comprendre « de l’intérieur ». L’empathie consiste à ressentir ce que d’autres éprouvent et à entrer en résonance avec eux. Lorsque nous rencontrons un être transporté de joie, nous éprouvons nous aussi de la joie. Il en va de même pour la souffrance._
+Quand t'as pitié d'quelqu'un, tu t'approprie des sentiments qui t'appartiennent pas. La pitié, ça apporte rien aux autre à part renforcer l'sentiment d'souffrance de l'autre pis en plus, ça renforce l'égo d'la personne qui a pitié.
 
-_Lorsque nous sommes empathiques, nous choisissons volontairement d’essayer de voir et de ressentir la situation comme l’autre ; nous adoptons volontairement son point de vue, incluant les réactions émotives qui en font partie. Mais nous restons toujours conscients qu’il s’agit de l’expérience de l’autre (ce qui n’est pas le cas dans la sympathie). Contrairement à ce qui se passe dans la compassion, dans l’empathie nous ne sommes pas nécessairement touchés (même si nous pouvons l’être), car nous restons dans la neutralité._
+Bref, la pitié, c'est égoïste. Ça vient d'la tête, du mental.
 
-_Pour être capable de compassion, il faut savoir être empathique. C’est en effet parce que nous saisissons ce que vit l’autre que nous sommes amenés à être touchés. Si nous n’en avions aucune représentation, il nous serait impossible d’être émus._
+La compassion, c'est l'amour. C'est donner sans attendre en retour. Ça vient du coeur. 
 
-__
+Certain vont aussi mêler la sympathie et l'empathie à travers tout ça. 
 
-[_  
-_](http://www.lebonsensdesetoiles.com/wp-content/uploads/2013/10/compassion.jpg) 
+La sympathie c'est c'qu'on éprouve avec l'autre en s'mettant plus ou moins à la place de l'autre et qu'on réagis comme si on était c'te personne là. Ça s'distingue d'la compassion parce qu'elle porte autant sur des sujets positifs que négatifs tandis qu'la compassion elle, c'est juste avec la souffrance.
 
-**_Ne pas confondre compassion et pitié_**_  
-Il existe une très grande différence entre les deux… La pitié est un sentiment, une émotion, elle est une forme d’empathie déguisée.  
-La majorité des personnes qui ont pitié pour une autre s’approprient des sentiments qui ne leur appartiennent pas. La pitié n’apporte rien à autrui si ce n’est que de renforcer le sentiment de souffrance chez cette personne. Elle renforce même trop souvent l’égo de celui qui a pitié…_
+L'empathie, elle, qui vient du grec "pathos" veut dire : ce qu'on éprouve dedans. C'est s'mettre à la place de l'autre pour comprendre de l'intérieur. L'empathie c'est quand ta meilleure chum te raconte de quoi d'heureux pis qu'elle déborde de joie pis que toi même, t'es remplie d'joie avec elle. C'est quand t'accepte volontairement le point d'vu de l'autre en incluant les réactions émotives. Sauf que, tu reste conscient que c'est pas TON expérience (contrairement à la sympathie). Et contrairement à la compassion, dans l'empathie t'es pas nécessairement touché (tu peux l'être, mais en général, tu reste neutre). 
 
-_Tout est sujet d’expérimentation dans cette vie… et il est nécessaire de savoir ce qu’est la souffrance pour comprendre le bonheur, et réciproquement. Chacun vit sa propre expérience et de le concevoir, permet plus facilement de compatir… La pitié n’est pas un acte d’Amour…_
+Honnêtement, pour avoir d'la compassion, faut savoir être empathique. Pis avec c'que j'vois souvent dans les commentaires, surtout par rapport à des agression sexuelles, le monde manque d'empathie et d'compassion.
 
-__
+J'souhaiterais à personne d'être violé. C'est une expérience qui t'change à jamais. Ça laisse plein d'séquelles, de souffrances. Et même si un jour t'arrive à passé à travers, ou à moins y pensé, tu l'oublie jamais. Personne veut être victime d'une agression. Personne "cherche" à s'faire violer. 
 
-**_La compassion est amour_**  
-_C’est un acte d’Amour inconditionnel, c’est-à-dire, donner son Amour à toutes personnes et ne rien attendre en retour, je dis bien À TOUTES, sans distinction de race, couleur, langue, religion et j’en passe…  
-Et ici, aucun sentiment n’entre en ligne de compte puisque l’Amour est une énergie très puissante…_
+Me semble qu'on vivrait tellement dans un plus beau monde si on pouvait faire un peu plus preuve de compassion. 
 
-_La pitié est issue de notre mental…_
-
-_La Compassion est issue du Cœur…_
-
-_Si la compassion est bien la forme incandescente de l’amour, on peut dire qu’elle se tient au cœur de toutes les grandes religions, et probablement de toute philosophie humaniste._
-
-_._
-
-_La compassion est utile pour consoler d’un chagrin ou pour écouter la plainte d’un tiers. Elle ne doit pas perdurer. Afin d’en éviter les effets pervers, recul et neutralité doivent s’en suivre et l’empathie prendre le relais._
+Après tout, donner un peu d'amour, même à un étranger, ça peut tellement guérir des blessures.
