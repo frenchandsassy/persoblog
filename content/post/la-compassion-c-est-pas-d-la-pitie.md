@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-05-24T11:24:49-04:00"
+draft = true
 keywords = ["tech"]
 tags = ["opinions", "psychologie", "société"]
 title = "La compassion c'est pas d'la pitié"
