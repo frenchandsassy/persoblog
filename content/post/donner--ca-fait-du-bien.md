@@ -45,6 +45,6 @@ Aujourd'hui, on fête notre 10 ans de mariage en simplicité parce que parfois l
 
 Parce que c'est ça qui s'passe. Même si y'a des p'tits accrochages parfois, on est quand même chanceux d's'avoir.
 
-Après tout, c'est comme ça qu'on voit ça nous, le marriage: un engagement à vie de choyer la personne qu'on a choisit. 
+Après tout, c'est comme ça qu'on voit ça nous, le marriage: un engagement à vie à choyer la personne qu'on a choisit, à bâtir du bonheur à chaque jour, petit à petit. Car en amour, c'est important d'monter, et non d'tomber.
 
 ![](/uploads/2018/06/07/22-mind-marriage-tips-grandma-502711544-nurdanst.jpg)
