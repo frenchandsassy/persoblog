@@ -1,6 +1,7 @@
 +++
 categories = ["category", "subcategory"]
 date = "2018-06-07T10:10:46-04:00"
+draft = true
 keywords = ["tech"]
 tags = ["ma vie", "le passé", "le présent", "le futur", "amour", "famille"]
 title = "7 Juin 2008, Québec."
