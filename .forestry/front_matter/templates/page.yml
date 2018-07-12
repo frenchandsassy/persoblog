@@ -33,3 +33,5 @@ fields:
   type: boolean
   hidden: false
   default: false
+pages:
+- content/post/l-ete-c-est-pas-ma-preferee.md
