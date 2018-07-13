@@ -1,7 +1,6 @@
 +++
 comments = false
 date = "2018-07-12T16:55:22-04:00"
-draft = true
 showActions = false
 showMeta = false
 tags = ["opinions", "le présent", "small talk"]
