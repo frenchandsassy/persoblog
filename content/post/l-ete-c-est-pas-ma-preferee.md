@@ -4,10 +4,12 @@ date = "2018-07-12T16:55:22-04:00"
 draft = true
 showActions = false
 showMeta = false
-tags = []
+tags = ["opinions", "le présent", "small talk"]
 title = "L'été c'est pas ma préférée"
 
 +++
+![](/uploads/2018/07/13/summer.jpg)
+
 J'ai chaud. J'ai vraiment chaud pis j'sais que j'suis pas la seule. On a eu toute une canicule la semaine passé pis j'étais chanceuse parce que j'étais chez mes beaux-parents dans leur superbe nouvelle maison avec l'air climatisé centrale pis une piscine.
 
 Mais là on est d'retour chez nous, on a pas d'piscine pis juste pour faire chier, notre seul air climatisé nous a lâcher la nuit passé.
